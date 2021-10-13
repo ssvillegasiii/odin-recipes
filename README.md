@@ -1,0 +1,1 @@
+This project is to express what I have learned so far from The Odin Project. I should be able to use the different basic elements to create a recipe website.
